@@ -167,6 +167,7 @@ Ce service permet à l'utilisateur de fournir une date au format jj-mm-aaaa via 
 <img width="440" alt="image" src="https://github.com/mct200/examwebservice/assets/97558185/4d907ad4-58a5-432e-905a-690dc9fe77f2">
 
 
-Pour accéder à l'historique des recherches, l'utilisateur peut simplement modifier l'URL du service principal en remplaçant "/calendar" par "/historique". Par exemple, pour consulter l'historique complet, l'utilisateur peut se rendre à l'URL http://localhost:8080/historique/all.
-![Screenshot 2024-04-03 194416](https://github.com/mct200/examwebservice/assets/97558185/c3f8e1b8-d138-432d-be89-c49fefa4e947)
+Pour accéder à l'historique des recherches, l'utilisateur peut simplement modifier l'URL du service principal en remplaçant "/calendar" par "/historique". Par exemple, pour consulter l'historique complet, l'utilisateur peut se rendre à l'URL http://localhost:8081/historique/all.
+<img width="545" alt="image" src="https://github.com/mct200/examwebservice/assets/97558185/70a8bf90-7bb0-4be9-988a-928fd7e8b20e">
+
 
