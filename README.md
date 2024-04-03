@@ -163,3 +163,10 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [Setting up Continuous Integration]: https://www.jhipster.tech/documentation-archive/v8.1.0/setting-up-ci/
 [Node.js]: https://nodejs.org/
 [NPM]: https://www.npmjs.com/
+Ce service permet à l'utilisateur de fournir une date au format jj-mm-aaaa via une requête HTTP et renvoie en réponse le jour de la semaine correspondant à cette date. Par exemple, si l'utilisateur fournit la date "22-01-1945", le service renverra que c'était un Lundi.
+<img width="440" alt="image" src="https://github.com/mct200/examwebservice/assets/97558185/4d907ad4-58a5-432e-905a-690dc9fe77f2">
+
+
+Pour accéder à l'historique des recherches, l'utilisateur peut simplement modifier l'URL du service principal en remplaçant "/calendar" par "/historique". Par exemple, pour consulter l'historique complet, l'utilisateur peut se rendre à l'URL http://localhost:8080/historique/all.
+![Screenshot 2024-04-03 194416](https://github.com/mct200/examwebservice/assets/97558185/c3f8e1b8-d138-432d-be89-c49fefa4e947)
+
